@@ -1,0 +1,176 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Assembling retspoof.asm...
+cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  hooks.cpp
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\hooks.cpp(439,44): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+  dllmain.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  offsets.cpp
+  renderer.cpp
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(356,75): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(381,141): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(381,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(381,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(382,141): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(382,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(382,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(383,141): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(383,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(383,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(384,141): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(384,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(384,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(385,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(385,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(389,151): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(389,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(389,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(389,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(389,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(390,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(390,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(390,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(390,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(390,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(394,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(394,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(394,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(394,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(394,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(397,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(398,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(401,159): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(401,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(401,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(401,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(402,159): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(402,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(402,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(402,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(403,167): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(403,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(403,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(403,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(404,167): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(404,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(404,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(404,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(405,167): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(405,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(405,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(405,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(406,167): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(406,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(406,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(406,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(407,175): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(407,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(407,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(407,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(408,175): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(408,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(408,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(408,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(411,103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(411,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(411,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(411,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(412,103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(412,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(412,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(412,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(413,111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(413,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(413,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(413,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(414,111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(414,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(414,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(414,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(415,111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(415,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(415,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(415,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(416,111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(416,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(416,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(416,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(417,119): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(417,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(417,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(417,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(418,119): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(418,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(418,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(418,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(490,114): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(490,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(490,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(490,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(491,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(491,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(491,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(491,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(495,114): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(495,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(495,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(495,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(496,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(496,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(496,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(496,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(500,114): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(500,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(500,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(500,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(501,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(501,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(501,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(501,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(505,114): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(505,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(505,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(505,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(506,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(506,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(506,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(506,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(512,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(512,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(1816,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(1822,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(1832,83): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(1832,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(1832,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(1832,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(1832,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(1837,118): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(1837,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(1837,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(1837,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(1837,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(1842,83): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(1842,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(1842,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(1842,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(1842,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(1847,105): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(1847,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(1847,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(1847,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(1847,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  settings.cpp
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\settings.cpp(40,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\settings.cpp(41,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\settings.cpp(46,30): warning C4305: '=': truncation from 'float' to 'bool'
+  util.cpp
+     Creating library .\x64\release\Exotic.lib and object .\x64\release\Exotic.exp
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\renderer.cpp(1826): warning C4700: uninitialized local variable 'X' used
+  All 2415 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Fortnite.vcxproj -> C:\Users\sebas\OneDrive\Desktop\CHEATS\AccuracyFN edited by VITAL\AccuracyFN\x64\release\Exotic.dll
